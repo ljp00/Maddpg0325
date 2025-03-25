@@ -1,0 +1,70 @@
+[2025-03-25 02:15:50] [INFO] Starting training session
+[2025-03-25 02:15:50] [INFO] Initialized environment with 3 agents
+[2025-03-25 02:15:50] [INFO] Observation space dimensions: 27
+[2025-03-25 02:15:50] [INFO] Actor dimensions: [27, 27, 27]
+[2025-03-25 02:15:50] [INFO] Critic dimensions: 81
+[2025-03-25 02:15:51] [INFO] Starting new training session
+[2025-03-25 02:15:52] [INFO] New best score: 28649.59
+[2025-03-25 02:16:45] [INFO] Episode: 100/5000, Average Score: 19568.28, Episode Time: 0.47s, Estimated Remaining Time: 0.73h
+[2025-03-25 02:17:41] [INFO] Episode: 200/5000, Average Score: 21935.32, Episode Time: 0.55s, Estimated Remaining Time: 0.73h
+[2025-03-25 02:18:40] [INFO] Episode: 300/5000, Average Score: 19944.82, Episode Time: 0.63s, Estimated Remaining Time: 0.73h
+[2025-03-25 02:19:38] [INFO] Episode: 400/5000, Average Score: 13516.66, Episode Time: 0.74s, Estimated Remaining Time: 0.72h
+[2025-03-25 02:20:41] [INFO] Episode: 500/5000, Average Score: 12960.97, Episode Time: 0.68s, Estimated Remaining Time: 0.72h
+[2025-03-25 02:20:41] [ERROR] Backup failed at episode 500: [Errno 2] No such file or directory: 'training_logs/20250325_021550/score_history.csv'
+[2025-03-25 02:21:46] [INFO] Episode: 600/5000, Average Score: 13268.66, Episode Time: 0.83s, Estimated Remaining Time: 0.72h
+[2025-03-25 02:22:56] [INFO] Episode: 700/5000, Average Score: 13485.44, Episode Time: 0.72s, Estimated Remaining Time: 0.72h
+[2025-03-25 02:23:57] [INFO] Episode: 800/5000, Average Score: 13173.47, Episode Time: 0.67s, Estimated Remaining Time: 0.71h
+[2025-03-25 02:25:00] [INFO] Episode: 900/5000, Average Score: 13387.08, Episode Time: 0.69s, Estimated Remaining Time: 0.69h
+[2025-03-25 02:26:02] [INFO] Episode: 1000/5000, Average Score: 13046.62, Episode Time: 0.63s, Estimated Remaining Time: 0.68h
+[2025-03-25 02:26:02] [ERROR] Backup failed at episode 1000: [Errno 2] No such file or directory: 'training_logs/20250325_021550/score_history.csv'
+[2025-03-25 02:26:57] [INFO] Episode: 1100/5000, Average Score: 13135.04, Episode Time: 0.55s, Estimated Remaining Time: 0.66h
+[2025-03-25 02:27:48] [INFO] Episode: 1200/5000, Average Score: 13225.10, Episode Time: 0.58s, Estimated Remaining Time: 0.63h
+[2025-03-25 02:28:43] [INFO] Episode: 1300/5000, Average Score: 13408.32, Episode Time: 0.59s, Estimated Remaining Time: 0.61h
+[2025-03-25 02:29:39] [INFO] Episode: 1400/5000, Average Score: 13261.76, Episode Time: 0.60s, Estimated Remaining Time: 0.59h
+[2025-03-25 02:30:34] [INFO] Episode: 1500/5000, Average Score: 13392.13, Episode Time: 0.53s, Estimated Remaining Time: 0.57h
+[2025-03-25 02:30:34] [ERROR] Backup failed at episode 1500: [Errno 2] No such file or directory: 'training_logs/20250325_021550/score_history.csv'
+[2025-03-25 02:31:25] [INFO] Episode: 1600/5000, Average Score: 13302.55, Episode Time: 0.55s, Estimated Remaining Time: 0.55h
+[2025-03-25 02:32:21] [INFO] Episode: 1700/5000, Average Score: 13425.21, Episode Time: 0.55s, Estimated Remaining Time: 0.53h
+[2025-03-25 02:33:17] [INFO] Episode: 1800/5000, Average Score: 13162.15, Episode Time: 0.55s, Estimated Remaining Time: 0.52h
+[2025-03-25 02:34:14] [INFO] Episode: 1900/5000, Average Score: 13183.94, Episode Time: 0.57s, Estimated Remaining Time: 0.50h
+[2025-03-25 02:35:09] [INFO] Episode: 2000/5000, Average Score: 13339.28, Episode Time: 0.55s, Estimated Remaining Time: 0.48h
+[2025-03-25 02:35:09] [ERROR] Backup failed at episode 2000: [Errno 2] No such file or directory: 'training_logs/20250325_021550/score_history.csv'
+[2025-03-25 02:36:05] [INFO] Episode: 2100/5000, Average Score: 13144.07, Episode Time: 0.78s, Estimated Remaining Time: 0.47h
+[2025-03-25 02:37:00] [INFO] Episode: 2200/5000, Average Score: 13268.27, Episode Time: 0.59s, Estimated Remaining Time: 0.45h
+[2025-03-25 02:37:59] [INFO] Episode: 2300/5000, Average Score: 13366.80, Episode Time: 0.64s, Estimated Remaining Time: 0.43h
+[2025-03-25 02:38:56] [INFO] Episode: 2400/5000, Average Score: 13160.55, Episode Time: 0.59s, Estimated Remaining Time: 0.42h
+[2025-03-25 02:39:49] [INFO] Episode: 2500/5000, Average Score: 13324.72, Episode Time: 0.61s, Estimated Remaining Time: 0.40h
+[2025-03-25 02:39:50] [ERROR] Backup failed at episode 2500: [Errno 2] No such file or directory: 'training_logs/20250325_021550/score_history.csv'
+[2025-03-25 02:40:46] [INFO] Episode: 2600/5000, Average Score: 13303.55, Episode Time: 0.60s, Estimated Remaining Time: 0.38h
+[2025-03-25 02:41:42] [INFO] Episode: 2700/5000, Average Score: 13149.88, Episode Time: 0.56s, Estimated Remaining Time: 0.37h
+[2025-03-25 02:42:38] [INFO] Episode: 2800/5000, Average Score: 13422.43, Episode Time: 0.57s, Estimated Remaining Time: 0.35h
+[2025-03-25 02:43:36] [INFO] Episode: 2900/5000, Average Score: 13472.46, Episode Time: 0.61s, Estimated Remaining Time: 0.33h
+[2025-03-25 02:44:37] [INFO] Episode: 3000/5000, Average Score: 13298.75, Episode Time: 0.60s, Estimated Remaining Time: 0.32h
+[2025-03-25 02:44:37] [ERROR] Backup failed at episode 3000: [Errno 2] No such file or directory: 'training_logs/20250325_021550/score_history.csv'
+[2025-03-25 02:45:37] [INFO] Episode: 3100/5000, Average Score: 13366.82, Episode Time: 0.64s, Estimated Remaining Time: 0.30h
+[2025-03-25 02:46:37] [INFO] Episode: 3200/5000, Average Score: 13369.29, Episode Time: 0.62s, Estimated Remaining Time: 0.29h
+[2025-03-25 02:47:35] [INFO] Episode: 3300/5000, Average Score: 13372.46, Episode Time: 0.57s, Estimated Remaining Time: 0.27h
+[2025-03-25 02:48:34] [INFO] Episode: 3400/5000, Average Score: 13261.25, Episode Time: 0.59s, Estimated Remaining Time: 0.26h
+[2025-03-25 02:49:35] [INFO] Episode: 3500/5000, Average Score: 13314.22, Episode Time: 0.63s, Estimated Remaining Time: 0.24h
+[2025-03-25 02:49:35] [ERROR] Backup failed at episode 3500: [Errno 2] No such file or directory: 'training_logs/20250325_021550/score_history.csv'
+[2025-03-25 02:50:37] [INFO] Episode: 3600/5000, Average Score: 13395.55, Episode Time: 0.65s, Estimated Remaining Time: 0.23h
+[2025-03-25 02:51:40] [INFO] Episode: 3700/5000, Average Score: 13273.09, Episode Time: 0.62s, Estimated Remaining Time: 0.21h
+[2025-03-25 02:52:48] [INFO] Episode: 3800/5000, Average Score: 13312.15, Episode Time: 0.67s, Estimated Remaining Time: 0.19h
+[2025-03-25 02:53:53] [INFO] Episode: 3900/5000, Average Score: 13273.05, Episode Time: 0.72s, Estimated Remaining Time: 0.18h
+[2025-03-25 02:55:01] [INFO] Episode: 4000/5000, Average Score: 13492.41, Episode Time: 0.58s, Estimated Remaining Time: 0.16h
+[2025-03-25 02:55:01] [ERROR] Backup failed at episode 4000: [Errno 2] No such file or directory: 'training_logs/20250325_021550/score_history.csv'
+[2025-03-25 02:56:11] [INFO] Episode: 4100/5000, Average Score: 13290.70, Episode Time: 0.77s, Estimated Remaining Time: 0.15h
+[2025-03-25 02:57:19] [INFO] Episode: 4200/5000, Average Score: 13371.19, Episode Time: 0.71s, Estimated Remaining Time: 0.13h
+[2025-03-25 02:58:27] [INFO] Episode: 4300/5000, Average Score: 13476.16, Episode Time: 0.70s, Estimated Remaining Time: 0.12h
+[2025-03-25 02:59:35] [INFO] Episode: 4400/5000, Average Score: 13221.24, Episode Time: 0.76s, Estimated Remaining Time: 0.10h
+[2025-03-25 03:00:45] [INFO] Episode: 4500/5000, Average Score: 13207.04, Episode Time: 0.72s, Estimated Remaining Time: 0.08h
+[2025-03-25 03:00:45] [ERROR] Backup failed at episode 4500: [Errno 2] No such file or directory: 'training_logs/20250325_021550/score_history.csv'
+[2025-03-25 03:01:54] [INFO] Episode: 4600/5000, Average Score: 13413.80, Episode Time: 0.70s, Estimated Remaining Time: 0.07h
+[2025-03-25 03:03:03] [INFO] Episode: 4700/5000, Average Score: 13416.68, Episode Time: 0.72s, Estimated Remaining Time: 0.05h
+[2025-03-25 03:04:14] [INFO] Episode: 4800/5000, Average Score: 13375.17, Episode Time: 0.71s, Estimated Remaining Time: 0.03h
+[2025-03-25 03:05:23] [INFO] Episode: 4900/5000, Average Score: 13263.52, Episode Time: 0.69s, Estimated Remaining Time: 0.02h
+[2025-03-25 03:06:32] [INFO] Training completed
+[2025-03-25 03:06:32] [INFO] Total training time: 0.84 hours
+[2025-03-25 03:06:32] [INFO] Final average score: 13230.68
+[2025-03-25 03:06:32] [INFO] Best score achieved: 28649.59
+[2025-03-25 03:06:32] [INFO] Total steps: 505000
